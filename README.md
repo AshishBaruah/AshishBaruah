@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Passionate about coding, debugging, and a good cup of coffee. Let's build the future! ☕💻</h3>
-<img align = "right" alt="coding" width = "400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVrNDlwdWE0ZHJ5dmU5Yzc5NTdoZnIwNTQ5cGVheW1pYTl5ZDBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
+<img align = "right" alt="coding" width = "300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVrNDlwdWE0ZHJ5dmU5Yzc5NTdoZnIwNTQ5cGVheW1pYTl5ZDBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbaruah&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbaruah" /> </p>
 
