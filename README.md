@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on ** Generative AI and LLM**
 
-- 🌱 I’m currently learning **Time Series Data Forecasting**
+- 🌱 I’m currently learning **RAG**
 
-- 💬 Ask me about Python , Django 
+- 💬 Ask me about *C++ , JAVA , Python , JAVASCRIPT , REACT ,Django* 
 
 - 📫 How to reach me **ashishbaruah90@gmail.com**
 
