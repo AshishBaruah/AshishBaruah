@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Time Series Data Forecasting**
 
-- 💬 Ask me about **Python , Django **
+- 💬 Ask me about Python , Django 
 
 - 📫 How to reach me **ashishbaruah90@gmail.com**
 
